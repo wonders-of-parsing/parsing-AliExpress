@@ -11,7 +11,7 @@ Download the parser pack and extract it.
 
 Open the parser.js file with a text editor to begin parsing.
 
-Find the line that says const text = `data`; – your scraped information has to replace data, but the info has to be tidied up first.
+Find the line that says "const text = `data`;" – your scraped information has to replace data, but the info has to be tidied up first.
 
 Tidy up the scraped information by deleting everything before <!DOCTYPE and everything after n<\/html>\n. Use CTRL+F (Windows) or CMD+F (macOS) to find these spots.
 
